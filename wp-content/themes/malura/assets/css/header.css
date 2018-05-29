@@ -25,6 +25,11 @@ header {
 	font-weight: 700;
 }
 
+.menu-item {
+    display: inline-block;
+    vertical-align: middle;
+}
+
 header .container {
 	justify-content: center;
 	padding: .5rem 0;
